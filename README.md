@@ -33,3 +33,8 @@
 	172：手机游戏（2%）
 	183：影视剪辑（2%）
 	184：预告（2%）
+
+## About Using
+请勿用于商业用途 ！
+
+PLEASE DO NOT USE IT FOT BUSINESS !
