@@ -1,10 +1,5 @@
 # BiliBili-Video-Recommendation
 
-## About Using
-请勿用于商业用途 ！
-
-PLEASE DO NOT USE IT FOT BUSINESS !
-
 ## B站API示例：
 "https://s.search.bilibili.com/cate/search?main_ver=v3&search_type=video&view_type=hot_rank&order=click&copy_right=-1&cate_id=76&page=1&pagesize=100&jsonp=jsonp&time_from=20220123&time_to=20220130"
 
