@@ -2,7 +2,6 @@ from os import makedirs
 from os.path import isfile
 from shutil import rmtree
 
-
 def chucun(name):
     try:
         name = str(name)
