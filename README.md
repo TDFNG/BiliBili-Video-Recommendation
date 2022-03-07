@@ -1,6 +1,4 @@
-# BiliBili-Video-Recommendation
-
-## B站API示例：
+## B站API：
 "https://s.search.bilibili.com/cate/search?main_ver=v3&search_type=video&view_type=hot_rank&order=click&copy_right=-1&cate_id=76&page=1&pagesize=100&jsonp=jsonp&time_from=20220123&time_to=20220130"
 
 ## 筛选规则如下：
@@ -33,5 +31,3 @@
 	172：手机游戏（2%）
 	183：影视剪辑（2%）
 	184：预告（2%）
-	
-## 构建好的EXE文件见Releases
