@@ -1,5 +1,0 @@
-###FolderSearch
-python-docx
-requests
-wget
-pypiwin32
