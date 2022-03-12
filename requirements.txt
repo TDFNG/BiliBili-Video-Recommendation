@@ -1,5 +1,0 @@
-#MyTreeSearch
-docx
-requests
-wget
-pypiwin32
